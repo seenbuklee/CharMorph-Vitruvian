@@ -1,285 +1,132 @@
 [
     {
-        "morph": "aa_02"
+        "morph": "y_iy_ih_ix_06"
     },
     {
-        "morph": "ae_ax_ah_01"
+        "morph": "w_uw_07"
     },
     {
-        "morph": "Angry"
+        "morph": "Upper_Eyelid_Up"
     },
     {
-        "morph": "ao_03"
+        "morph": "Uncompressed"
     },
     {
-        "morph": "aw_09"
+        "morph": "Tongue_Up"
     },
     {
-        "morph": "ay_11"
+        "morph": "Tongue_Roll"
     },
     {
-        "morph": "Cheeks_Contracted_Left"
+        "morph": "Tongue_Right"
     },
     {
-        "morph": "Cheeks_Contracted_Right"
+        "morph": "Tongue_Left"
     },
     {
-        "morph": "Cheeks_Inhaled_Left"
+        "morph": "Tongue_Forward"
     },
     {
-        "morph": "Cheeks_Inhaled_Right"
+        "morph": "Tongue_Down"
     },
     {
-        "morph": "Cheeks_Puffed"
+        "morph": "Thinking"
     },
     {
-        "morph": "Cheeks_Raised_Left"
+        "morph": "th_dh_17"
     },
     {
-        "morph": "Cheeks_Raised_Right"
+        "morph": "Smile_Lips_Closed_Right"
     },
     {
-        "morph": "Chew"
+        "morph": "Smile_Lips_Closed_Left"
     },
     {
-        "morph": "Chew_DIrectional",
-        "min": -1,
-        "max": 1
+        "morph": "Smile_Lips_Closed"
     },
     {
-        "morph": "Chin_Raised"
+        "morph": "sh_ch_jh_zh_16"
     },
     {
-        "morph": "Circumspect"
+        "morph": "Scared"
     },
     {
-        "morph": "Compressed"
+        "morph": "Sad"
     },
     {
-        "morph": "d_t_n_19"
+        "morph": "s_z_15"
     },
     {
-        "morph": "Disgusted"
+        "morph": "Revulsion"
     },
     {
-        "morph": "er_05"
+        "morph": "r_13"
     },
     {
-        "morph": "ey_eh_uh_04"
+        "morph": "Pupil_Dilation_Right"
     },
     {
-        "morph": "Eyebrows_Frown_Left"
+        "morph": "Pupil_Dilation_Left"
     },
     {
-        "morph": "Eyebrows_Frown_Right"
+        "morph": "Pupil_Constriction_Right"
     },
     {
-        "morph": "Eyebrows_Lower_Left"
+        "morph": "Pupil_Constriction_Left"
     },
     {
-        "morph": "Eyebrows_Lower_Right"
+        "morph": "p_b_m_21"
     },
     {
-        "morph": "Eyebrows_Raised_Left"
+        "morph": "oy_10"
     },
     {
-        "morph": "Eyebrows_Raised_Right"
+        "morph": "ow_08"
     },
     {
-        "morph": "Eyes_Closed_Left"
+        "morph": "Opened_GLOBAL_Right"
     },
     {
-        "morph": "Eyes_Closed_Max"
+        "morph": "Opened_GLOBAL_Left"
     },
     {
-        "morph": "Eyes_Closed_Right"
+        "morph": "Opened_ClosedTeeth_Right"
     },
     {
-        "morph": "Eyes_Opened_Max_Left"
+        "morph": "Opened_ClosedTeeth_Left"
     },
     {
-        "morph": "Eyes_Opened_Max_Right"
+        "morph": "Oops"
     },
     {
-        "morph": "Eyes_Squint"
+        "morph": "Nostrils_Lower"
     },
     {
-        "morph": "f_v_18"
+        "morph": "Nostrils_Dilated"
     },
     {
-        "morph": "Frown_Left"
+        "morph": "Nostrils_Corners_Raise_GLOBAL_Right"
     },
     {
-        "morph": "Frown_Right"
+        "morph": "Nostrils_Corners_Raise_GLOBAL_Left"
     },
     {
-        "morph": "h_12"
+        "morph": "Nostrils_Compressed"
     },
     {
-        "morph": "Happy"
+        "morph": "Neck_Sternomastoid_Contracted"
     },
     {
-        "morph": "Jaw_back"
+        "morph": "Neck_Contracted"
     },
     {
-        "morph": "Jaw_dn_upper"
+        "morph": "Mouth_Large_Opened"
     },
     {
-        "morph": "Jaw_Lower"
+        "morph": "Mouth_Closed_Move_Right"
     },
     {
-        "morph": "Jaw_Out"
-    },
-    {
-        "morph": "k_g_ng_20"
-    },
-    {
-        "morph": "Kiss"
-    },
-    {
-        "morph": "l_14"
-    },
-    {
-        "morph": "Lips_Dimple_Left",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Lips_Dimple_Right",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Lips_Dn_Bite"
-    },
-    {
-        "morph": "Lips_Dn_Corner_Tight_Left"
-    },
-    {
-        "morph": "Lips_Dn_Corner_Tight_Right"
-    },
-    {
-        "morph": "Lips_Dn_Corner_Wide_Left"
-    },
-    {
-        "morph": "Lips_Dn_Corner_Wide_Right"
-    },
-    {
-        "morph": "Lips_Dn_Funnel"
-    },
-    {
-        "morph": "Lips_Dn_In"
-    },
-    {
-        "morph": "Lips_Dn_Lower_Left"
-    },
-    {
-        "morph": "Lips_Dn_Lower_M"
-    },
-    {
-        "morph": "Lips_Dn_Lower_Right"
-    },
-    {
-        "morph": "Lips_Dn_Out"
-    },
-    {
-        "morph": "Lips_Dn_Raised"
-    },
-    {
-        "morph": "Lips_Dn_Tighten"
-    },
-    {
-        "morph": "Lips_Inner"
-    },
-    {
-        "morph": "Lips_Push_Dn"
-    },
-    {
-        "morph": "Lips_Push_Up"
-    },
-    {
-        "morph": "Lips_Up_Bite"
-    },
-    {
-        "morph": "Lips_Up_Corner_Tight_Left"
-    },
-    {
-        "morph": "Lips_Up_Corner_Tight_Right"
-    },
-    {
-        "morph": "Lips_Up_Corner_Wide_Left"
-    },
-    {
-        "morph": "Lips_Up_Corner_Wide_Right"
-    },
-    {
-        "morph": "Lips_Up_Funnel"
-    },
-    {
-        "morph": "Lips_Up_In"
-    },
-    {
-        "morph": "Lips_Up_Lower_Left"
-    },
-    {
-        "morph": "Lips_Up_Lower_Right"
-    },
-    {
-        "morph": "Lips_Up_Out"
-    },
-    {
-        "morph": "Lips_Up_Raised_Left"
-    },
-    {
-        "morph": "Lips_Up_Raised_M"
-    },
-    {
-        "morph": "Lips_Up_Raised_Right"
-    },
-    {
-        "morph": "Lips_Up_Tighten"
-    },
-    {
-        "morph": "Look_Dwn_Left"
-    },
-    {
-        "morph": "Look_Dwn_Right"
-    },
-    {
-        "morph": "Look_In_Left"
-    },
-    {
-        "morph": "Look_In_Right"
-    },
-    {
-        "morph": "Look_Out_Left"
-    },
-    {
-        "morph": "Look_Out_Right"
-    },
-    {
-        "morph": "Look_Up_Left"
-    },
-    {
-        "morph": "Look_Up_Right"
-    },
-    {
-        "morph": "Lower_Eyelid_Dn_Left"
-    },
-    {
-        "morph": "Lower_Eyelid_Dn_Right"
-    },
-    {
-        "morph": "Lower_Eyelid_Squint"
-    },
-    {
-        "morph": "Lower_Eyelid_Up_Left"
-    },
-    {
-        "morph": "Lower_Eyelid_Up_Right"
-    },
-    {
-        "morph": "Mouth_Closed_Corner"
+        "morph": "Mouth_Closed_Move_Left"
     },
     {
         "morph": "Mouth_Closed_Jaw_Move",
@@ -287,145 +134,212 @@
         "max": 1
     },
     {
-        "morph": "Mouth_Closed_Move_Left"
+        "morph": "Mouth_Closed_Corner"
     },
     {
-        "morph": "Mouth_Closed_Move_Right"
+        "morph": "Lower_Eyelid_Up_Right"
     },
     {
-        "morph": "Mouth_Large_Opened"
+        "morph": "Lower_Eyelid_Up_Left"
     },
     {
-        "morph": "Neck_Contracted"
+        "morph": "Lower_Eyelid_Squint"
     },
     {
-        "morph": "Neck_Sternomastoid_Contracted"
+        "morph": "Lower_Eyelid_Dn_Right"
     },
     {
-        "morph": "Nostrils_Compressed"
+        "morph": "Lower_Eyelid_Dn_Left"
     },
     {
-        "morph": "Nostrils_Corners_Raise_GLOBAL_Left"
+        "morph": "Look_Up_Right"
     },
     {
-        "morph": "Nostrils_Corners_Raise_GLOBAL_Right"
+        "morph": "Look_Up_Left"
     },
     {
-        "morph": "Nostrils_Dilated"
+        "morph": "Look_Out_Right"
     },
     {
-        "morph": "Nostrils_Lower"
+        "morph": "Look_Out_Left"
     },
     {
-        "morph": "Oops"
+        "morph": "Look_In_Right"
     },
     {
-        "morph": "Opened_ClosedTeeth_Left"
+        "morph": "Look_In_Left"
     },
     {
-        "morph": "Opened_ClosedTeeth_Right"
+        "morph": "Look_Dwn_Right"
     },
     {
-        "morph": "Opened_GLOBAL_Left"
+        "morph": "Look_Dwn_Left"
     },
     {
-        "morph": "Opened_GLOBAL_Right"
+        "morph": "Lips_Up_Tighten"
     },
     {
-        "morph": "ow_08"
+        "morph": "Lips_Up_Raised_Right"
     },
     {
-        "morph": "oy_10"
+        "morph": "Lips_Up_Raised_M"
     },
     {
-        "morph": "p_b_m_21"
+        "morph": "Lips_Up_Raised_Left"
     },
     {
-        "morph": "Pupil_Constriction_Left"
+        "morph": "Lips_Up_Out"
     },
     {
-        "morph": "Pupil_Constriction_Right"
+        "morph": "Lips_Up_Lower_Right"
     },
     {
-        "morph": "Pupil_Dilation_Left"
+        "morph": "Lips_Up_Lower_Left"
     },
     {
-        "morph": "Pupil_Dilation_Right"
+        "morph": "Lips_Up_In"
     },
     {
-        "morph": "r_13"
+        "morph": "Lips_Up_Funnel"
     },
     {
-        "morph": "Revulsion"
+        "morph": "Lips_Up_Corner_Wide_Right"
     },
     {
-        "morph": "s_z_15"
+        "morph": "Lips_Up_Corner_Wide_Left"
     },
     {
-        "morph": "Sad"
+        "morph": "Lips_Up_Corner_Tight_Right"
     },
     {
-        "morph": "Scared"
+        "morph": "Lips_Up_Corner_Tight_Left"
     },
     {
-        "morph": "sh_ch_jh_zh_16"
+        "morph": "Lips_Up_Bite"
     },
     {
-        "morph": "Smile_Lips_Closed"
+        "morph": "Lips_Push_Up"
     },
     {
-        "morph": "Smile_Lips_Closed_Left"
+        "morph": "Lips_Push_Dn"
     },
     {
-        "morph": "Smile_Lips_Closed_Right"
+        "morph": "Lips_Inner"
     },
     {
-        "morph": "th_dh_17"
+        "morph": "Lips_Dn_Tighten"
     },
     {
-        "morph": "Thinking"
+        "morph": "Lips_Dn_Raised"
     },
     {
-        "morph": "Tongue_Down"
+        "morph": "Lips_Dn_Out"
     },
     {
-        "morph": "Tongue_Up"
+        "morph": "Lips_Dn_Lower_Right"
     },
     {
-        "morph": "Tongue_Forward"
+        "morph": "Lips_Dn_Lower_M"
     },
     {
-        "morph": "Tongue_Left"
+        "morph": "Lips_Dn_Lower_Left"
     },
     {
-        "morph": "Tongue_Right"
+        "morph": "Lips_Dn_In"
     },
     {
-        "morph": "Tongue_Roll"
+        "morph": "Lips_Dn_Funnel"
     },
     {
-        "morph": "Uncompressed"
+        "morph": "Lips_Dn_Corner_Wide_Right"
     },
     {
-        "morph": "Upper_Eyelid_Up"
+        "morph": "Lips_Dn_Corner_Wide_Left"
     },
     {
-        "morph": "w_uw_07"
+        "morph": "Lips_Dn_Corner_Tight_Right"
     },
     {
-        "morph": "y_iy_ih_ix_06"
-    },
-	{
-        "morph": "Eyebrows_InnerBrow_Raised_Left"
+        "morph": "Lips_Dn_Corner_Tight_Left"
     },
     {
-        "morph": "Eyebrows_InnerBrow_Raised_Right"
+        "morph": "Lips_Dn_Bite"
     },
     {
-        "morph": "Eyebrows_InnerBrow_Lower_Left"
+        "morph": "Lips_Dimple_Right",
+        "min": -1,
+        "max": 1
     },
     {
-        "morph": "Eyebrows_InnerBrow_Lower_Right"
+        "morph": "Lips_Dimple_Left",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "l_14"
+    },
+    {
+        "morph": "Kiss"
+    },
+    {
+        "morph": "k_g_ng_20"
+    },
+    {
+        "morph": "Jaw_Out"
+    },
+    {
+        "morph": "Jaw_Lower"
+    },
+    {
+        "morph": "Jaw_dn_upper"
+    },
+    {
+        "morph": "Jaw_back"
+    },
+    {
+        "morph": "Happy"
+    },
+    {
+        "morph": "h_12"
+    },
+    {
+        "morph": "Frown_Right"
+    },
+    {
+        "morph": "Frown_Left"
+    },
+    {
+        "morph": "f_v_18"
+    },
+    {
+        "morph": "Eyes_Squint"
+    },
+    {
+        "morph": "Eyes_Opened_Max_Right"
+    },
+    {
+        "morph": "Eyes_Opened_Max_Left"
+    },
+    {
+        "morph": "Eyes_Closed_Right"
+    },
+    {
+        "morph": "Eyes_Closed_Max"
+    },
+    {
+        "morph": "Eyes_Closed_Left"
+    },
+    {
+        "morph": "Eyebrows_Raised_Right"
+    },
+    {
+        "morph": "Eyebrows_Raised_Left"
+    },
+    {
+        "morph": "Eyebrows_OuterBrow_Raised_Right"
+    },
+    {
+        "morph": "Eyebrows_OuterBrow_Raised_Left"
     },
     {
         "morph": "Eyebrows_OuterBrow_Lower_Right"
@@ -434,10 +348,34 @@
         "morph": "Eyebrows_OuterBrow_Lower_Left"
     },
     {
-        "morph": "Eyebrows_OuterBrow_Raised_Right"
+        "morph": "Eyebrows_Lower_Right"
     },
     {
-        "morph": "Eyebrows_OuterBrow_Raised_Left"
+        "morph": "Eyebrows_Lower_Left"
+    },
+    {
+        "morph": "Eyebrows_InnerBrow_Raised_Right"
+    },
+    {
+        "morph": "Eyebrows_InnerBrow_Raised_Left"
+    },
+    {
+        "morph": "Eyebrows_InnerBrow_Lower_Right"
+    },
+    {
+        "morph": "Eyebrows_InnerBrow_Lower_Left"
+    },
+    {
+        "morph": "Eyebrows_Frown_Right"
+    },
+    {
+        "morph": "Eyebrows_Frown_Left"
+    },
+    {
+        "morph": "ey_eh_uh_04"
+    },
+    {
+        "morph": "er_05"
     },
     {
         "morph": "Ears_Up_Right"
@@ -450,5 +388,67 @@
     },
     {
         "morph": "Ears_Back_Left"
+    },
+    {
+        "morph": "Disgusted"
+    },
+    {
+        "morph": "d_t_n_19"
+    },
+    {
+        "morph": "Compressed"
+    },
+    {
+        "morph": "Circumspect"
+    },
+    {
+        "morph": "Chin_Raised"
+    },
+    {
+        "morph": "Chew_Directional",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Chew"
+    },
+    {
+        "morph": "Cheeks_Raised_Right"
+    },
+    {
+        "morph": "Cheeks_Raised_Left"
+    },
+    {
+        "morph": "Cheeks_Puffed"
+    },
+    {
+        "morph": "Cheeks_Inhaled_Right"
+    },
+    {
+        "morph": "Cheeks_Inhaled_Left"
+    },
+    {
+        "morph": "Cheeks_Contracted_Right"
+    },
+    {
+        "morph": "Cheeks_Contracted_Left"
+    },
+    {
+        "morph": "ay_11"
+    },
+    {
+        "morph": "aw_09"
+    },
+    {
+        "morph": "ao_03"
+    },
+    {
+        "morph": "Angry"
+    },
+    {
+        "morph": "ae_ax_ah_01"
+    },
+    {
+        "morph": "aa_02"
     }
 ]

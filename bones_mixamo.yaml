@@ -1,0 +1,12 @@
+mixamorig:Head:
+  offs_head: [-0.0, -0.04515, -0.0009]
+  offs_tail: [-0.0, -0.00404, 0.00127]
+mixamorig:LeftFoot:
+  offs_tail: [-0.0019, 0.00198, 0.00605]
+mixamorig:LeftToeBase:
+  offs_head: [-0.0019, 0.00198, 0.00605]
+  offs_tail: [-0.00179, 0.00061, -0.0021]
+mixamorig:RightFoot:
+  offs_tail: [0.0006, -0.00319, 0.00536]
+mixamorig:RightToeBase:
+  offs_tail: [-0.00012, -0.00173, 0.00112]

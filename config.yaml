@@ -1,6 +1,6 @@
 title: Vitruvian (CC0)
 author: Sean Buckley, Olaf Delgado-Friedrichs
-additional_authors: Sean Buckley (Shape,Morphs, Blendshapes, UVs, Textures, Rigging), Olaf Delgado-Friedrichs (Original Antonia Version, Topology), SirMaxim (Skin LUT), Upliner (Original Antonia Rigging), AgentA1CR (Node help, Eyebrows conversion), Benjamin McDonnell (Feedback), Mindfront (Orginal Eyebrow Geometry)
+additional_authors: Sean Buckley (Shape,Morphs, Blendshapes, UVs, Textures, Rigging), Olaf Delgado-Friedrichs (Original Antonia Version, Topology), SirMaxim (Skin LUT), Upliner (Original Antonia Rigging), AgentA1CR (Node help, Eyebrows conversion), Benjamin McDonnell (Feedback), Mindfront (Orginal Eyebrow Geometry), J Hill (Lacrimal Caruncle & Sclera textures)
 license: CC0
 
 char_obj: cm_vitruvian
@@ -17,7 +17,6 @@ hairstyles:
     - Bob
     - Combover_zoro_d
     - SceneHair_1_O4saken
-    - SlickedBack
     - mind_eyebrows_01
     - mind_eyebrows_02
     - mind_eyebrows_03
@@ -32,26 +31,32 @@ hairstyles:
     - mind_eyebrows_12
     - mind_eyebrows_13
     - mind_eyebrows_14
+    - SlickedBack
 custom_morph_order: true
 randomize_excl_regex: ^(Age|Fantasy).*$
 recurse_materials: true
 
 materials:
-  - Iris
-  - Mouth
-  - Pupil
-  - Sclera_Cornea
+  - EyeHair
   - UDIM.Skin
   - charmorph_censor
-  - EyeHair
+  - AqueosLayer
+  - Pupil
+  - Sclera_Cornea
+  - Iris
+  - Mouth
+  
+default_assets:
+  - Lacrimal_Caruncle
   - Tearline
+  
 armature_defaults:
     type: rigify
     file: rigs.blend
 
 armature:
    rigify:
-    bones: bones.yaml
+    bones: bones_rigify.yaml
     ik_limits:
       MCH-forearm_ik.L:
         min: -10
@@ -86,15 +91,17 @@ armature:
         side: [".L", ".R"]
         influence: 0.07
   
-   mannequin:
-    title: Unreal Mannequin (Experimental)
+   game-rig:
+    bones: bones_rigify.yaml
+    title: Game-Rig 
     type: regular
     file: rigs.blend
-    obj_name: SK_UE5_Vitruvian
-    weights: weights/mannequin.npz
-    joints: joints/mannequin.npz
+    obj_name: game_rig_vitruvian
+    weights: weights/gamerig.npz
+    joints: joints/gamerig.npz
     
    mixamo:
+    bones: bones_mixamo.yaml
     title: Mixamo (Game-Ready)
     type: regular
     file: rigs.blend

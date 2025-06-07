@@ -1,67 +1,9 @@
 [
     {
-        "morph": "Generic_Assymetry",
-        "min": -1,
-        "max": 1
-    },
-    {
         "morph": "Gender_Female"
     },
     {
         "morph": "Gender_Male"
-    },
-    {
-        "morph": "Race_Bengali"
-    },
-    {
-        "morph": "Race_Tamil"
-    },
-    {
-        "morph": "Race_Punjabi"
-    },
-    {
-        "morph": "Race_Marathi"
-    },
-    {
-        "morph": "Race_Telegu"
-    },
-    {
-        "morph": "Race_Sinhalese"
-    },
-    {
-        "morph": "Race_Kannada"
-    },
-    {
-        "morph": "Race_Hispanic"
-    },
-    {
-        "morph": "Race_White"
-    },
-    {
-        "morph": "Race_African"
-    },
-    {
-        "morph": "Race_EastAsian"
-    },
-    {
-        "morph": "Race_MiddleEastern"
-    },
-    {
-        "morph": "BodyType_Fat"
-    },
-    {
-        "morph": "BodyType_Emaciated"
-    },
-    {
-        "morph": "BodyType_Muscular"
-    },
-    {
-        "morph": "BodyType_Lean"
-    },
-    {
-        "morph": "BodyType_LongProportions",
-        "min": -1,
-        "max": 1
     },
     {
         "morph": "Age_Baby"
@@ -70,32 +12,74 @@
         "morph": "Age_Old"
     },
     {
-        "morph": "Fantasy_NoNose"
-    },
-    {
-        "morph": "Fantasy_SnakeTongue"
-    },
-    {
-        "morph": "Fantasy_VampireTeeth"
-    },
-    {
-        "morph": "Fantasy_SharpTeeth"
-    },
-    {
-        "morph": "Fantasy_CatEyes"
-    },
-    {
-        "morph": "Face_Maxilla",
+        "morph": "Arms_Armpit_Loc_Z",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Face_Zygomatic_Bone",
+        "morph": "Arms_BicepSize"
+    },
+    {
+        "morph": "Arms_Forearm_Girth"
+    },
+    {
+        "morph": "Arms_TricepSize"
+    },
+    {
+        "morph": "BodyType_EctoMorph"
+    },
+    {
+        "morph": "BodyType_Emaciated"
+    },
+    {
+        "morph": "BodyType_EndoMorph"
+    },
+    {
+        "morph": "BodyType_Lean"
+    },
+    {
+        "morph": "BodyType_MesoMorph"
+    },
+    {
+        "morph": "Cheeks_BoneDefinition"
+    },
+    {
+        "morph": "Cheeks_BuccalFat",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Chin_Width",
+        "morph": "Cheeks_CheeksBonePositionZ",
+		"min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Cheeks_UpperCheek_Bone",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Chest_Areola_Radius",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Chest_Breast_Size"
+    },
+    {
+        "morph": "Chest_FemaleFlatChested"
+    },
+    {
+        "morph": "Chest_FemaleSiliconeImplants"
+    },
+    {
+        "morph": "Chest_Nipple_Protrusion"
+    },
+    {
+        "morph": "Chin_ChinCleft"
+    },
+    {
+        "morph": "Chin_Height",
         "min": -1,
         "max": 1
     },
@@ -105,164 +89,66 @@
         "max": 1
     },
     {
-        "morph": "Chin_ChinCleft"
+        "morph": "Chin_PosZ",
+        "min": -1,
+        "max": 1
     },
     {
-        "morph": "Ears_Length"
+        "morph": "Chin_SecondaryWidth",
+        "min": -1,
+        "max": 1
     },
     {
-        "morph": "Fantasy_Ear"
+        "morph": "Chin_Tilt",
+        "min": -1,
+        "max": 1
     },
     {
-        "morph": "Ears_Height"
+        "morph": "Chin_Width",
+        "min": -1,
+        "max": 1
     },
     {
-        "morph": "Ears_Canal_Size"
+        "morph": "Ears_Height",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Ears_Length",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Ears_Lobe",
+        "min": -1,
+        "max": 1
     },
     {
         "morph": "Ears_LobeAttached"
     },
     {
-        "morph": "Ears_Canal_Depth"
-    },
-    {
-        "morph": "Ears_Lobe"
-    },
-    {
-        "morph": "Ears_Rot"
-    },
-    {
-        "morph": "Ears_Round"
-    },
-    {
-        "morph": "Ears_Tragus_Portrusion"
-    },
-    {
-        "morph": "Jaw_Mandible",
+        "morph": "Ears_Protrusion",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Jaw_Mandible_GonialAngle",
+        "morph": "Ears_ProtrusionTop",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Shoulders_ShoulderWidth"
+        "morph": "Ears_Rotation"
     },
     {
-        "morph": "Shoulders_ShoulderBladeWidth"
-    },
-    {
-        "morph": "Shoulders_ShoulderTrapeziusSize"
-    },
-    {
-        "morph": "Stomach_BellyButtonPotrusion"
-    },
-    {
-        "morph": "Waist_GluteSize",
-		"min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Waist_Hips_Width",
-		"min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Waist_GlutealFold"
-    },
-    {
-        "morph": "Waist_GlutealCleft_Width"
-    },
-    {
-        "morph": "Waist_GlutealCleft_Depth"
-    },
-    {
-        "morph": "Hands_Size",
+        "morph": "Ears_Round",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Hands_FingernailLength"
+        "morph": "Ears_Tragus_Protrusion"
     },
     {
-        "morph": "Hands_FingernailPointiness"
-    },
-    {
-        "morph": "Hands_Girth"
-    },
-    {
-        "morph": "Torso_RibWidth"
-    },
-    {
-        "morph": "Face_EyeSocket_Potrusion",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Face_FrontalBone_BrowRidge",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Face_FrontalBone_FrontalEminence",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Face_FrontalBone",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Neck_Girth"
-    },
-    {
-        "morph": "Neck_Length",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Cheeks_BoneDefinition"
-    },
-    {
-        "morph": "Cheeks_CheeksBonePositionZ",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Cheeks_UpperCheek_Bone",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Eyes_EyebrowsAngle",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Eyes_EyebrowsDroop",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Eyes_EyelidsAngle",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Eyes_Size",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Eyes_EyelidsAngle2",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Eyes_EyelidsCrease",
+        "morph": "Eyes_Distance",
         "min": -1,
         "max": 1
     },
@@ -277,31 +163,193 @@
         "max": 1
     },
     {
-        "morph": "Arms_Forearm_Girth"
-    },
-    {
-        "morph": "Arms_BicepSize",
+        "morph": "Eyes_EyebrowsAngle",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Arms_TricepSize",
+        "morph": "Eyes_EyebrowsDroop",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Arms_Armpit_Loc_Z",
+        "morph": "Eyes_Eyelid_Hooded"
+    },
+    {
+        "morph": "Eyes_EyelidsAngle",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Chest_Breast_Size"
+        "morph": "Eyes_EyelidsAngle2"
     },
     {
-        "morph": "Chest_Areola_Radius"
+        "morph": "Eyes_EyelidsCrease",
+        "min": -1,
+        "max": 1
     },
     {
-        "morph": "Chest_Nipple_Potrusion"
+        "morph": "Eyes_LacrimalCaruncle_Rotate"
+    },
+    {
+        "morph": "Eyes_LacrimalCaruncle_Sharpness"
+    },
+    {
+        "morph": "Eyes_Size",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Eyes_VerticalShift",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Face_BrowRidge_CurvedDroop"
+    },
+    {
+        "morph": "Face_BrowRidge_CurvedRaise"
+    },
+    {
+        "morph": "Face_BrowRidge_Droop"
+    },
+    {
+        "morph": "Face_BrowRidge_Raise"
+    },
+    {
+        "morph": "Face_FrontalBone",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Face_EyeSocket_Protrusion",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Face_FrontalBone_BrowRidge",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Face_FrontalBone_FrontalEminence",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Face_Maxilla",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Face_Puffy"
+    },
+    {
+        "morph": "Face_Zygomatic_Bone",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Fantasy_CatEyes"
+    },
+    {
+        "morph": "Fantasy_Ear"
+    },
+    {
+        "morph": "Fantasy_NoNose"
+    },
+    {
+        "morph": "Fantasy_SharpTeeth"
+    },
+    {
+        "morph": "Fantasy_SnakeTongue"
+    },
+    {
+        "morph": "Fantasy_VampireTeeth"
+    },
+    {
+        "morph": "Generic_Assymetry",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Hands_Girth"
+    },
+    {
+        "morph": "Hands_FingernailLength"
+    },
+    {
+        "morph": "Hands_FingernailPointiness"
+    },
+    {
+        "morph": "Hands_Size"
+    },
+    {
+        "morph": "Head_BackScalp_Protrusion",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Head_FrontalBoneFlatness",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Head_ParietalFlatness"
+    },
+    {
+        "morph": "Head_SideScalp_Protrusion",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Head_SphenoidBone",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Head_TemporalLines",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Head_TopScalpPotrusion",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Jaw_Definition",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Jaw_Mandible"
+    },
+    {
+        "morph": "Jaw_Mandible_GonialAngle",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Jaw_Ramus_Extrusion",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Jaw_Ramus_LocY",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Jaw_Width",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Legs_Calves_Size"
+    },
+    {
+        "morph": "Legs_FlatFoot"
     },
     {
         "morph": "Legs_FeetSize",
@@ -309,32 +357,97 @@
         "max": 1
     },
     {
+        "morph": "Legs_Hamstring_Size"
+    },
+    {
+        "morph": "Legs_Quad_Size"
+    },
+    {
+        "morph": "Legs_Thigh_Gap"
+    },
+    {
+        "morph": "Legs_Thigh_Size"
+    },
+    {
         "morph": "Legs_Toenail_Length"
     },
     {
-        "morph": "Legs_Calves_Size",
+        "morph": "Mouth_Lips_BottomLipDepth",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Legs_Thigh_Size",
+        "morph": "Mouth_Lips_Height",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Legs_Quad_Size",
+        "morph": "Mouth_Lips_Length",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Legs_Thigh_Gap",
+        "morph": "Mouth_Lips_LowerAngle",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Legs_Hamstring_Size",
+        "morph": "Mouth_Lips_UpperAngle",
         "min": -1,
         "max": 1
+    },
+    {
+        "morph": "Mouth_Lips_UpperLipArch"
+    },
+    {
+        "morph": "Mouth_Lips_UpperLipDepth",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Mouth_NoTeeth"
+    },
+    {
+        "morph": "Mouth_PhiltrumDepth",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Mouth_PhiltrumHeight",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Neck_AdamsApple"
+    },
+    {
+        "morph": "Neck_ChinConnection"
+    },
+    {
+        "morph": "Neck_Girth",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Neck_Length",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Nose_BottomFlatness"
+    },
+    {
+        "morph": "Nose_BridgeProminence",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Nose_NasalAngle",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Nose_Flatness"
     },
     {
         "morph": "Nose_NasalBone",
@@ -352,12 +465,17 @@
         "max": 1
     },
     {
-        "morph": "Nose_NoseHeight",
+        "morph": "Nose_Width",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Nose_NasalAngle",
+        "morph": "Nose_Tip_Z",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Nose_NoseHeight",
         "min": -1,
         "max": 1
     },
@@ -367,216 +485,12 @@
         "max": 1
     },
     {
-        "morph": "Mouth_Lips_Length",
+        "morph": "Nose_Protrusion",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Mouth_Lips_Height",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Mouth_Lips_BottomLipDepth",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Mouth_Lips_UpperLipDepth",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Mouth_NoTeeth"
-    },
-    {
-        "morph": "Eyes_Distance",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Eyes_VerticalShift",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Chin_PosZ",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Jaw_Definition",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Neck_ChinConnection",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Head_TopScalpPotrusion",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Head_SideScalpPotrusion",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Head_BackScalpPotrusion",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Head_SphenoidBone",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Head_TemporalLines",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Head_ParietalFlatness",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Head_FrontalBoneFlatness",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Mouth_Lips_UpperLipArch",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Mouth_Lips_UpperAngle",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Mouth_Lips_LowerAngle",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Nose_Tip_Potrusion",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Nose_BottomFlatness",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Nose_Potrusion",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Nose_BridgeProminence",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Eyes_UpperLidOpenness"
-    },
-    {
-        "morph": "Eyes_LowerLidOpenness"
-    },
-    {
-        "morph": "Eyes_LacrimalCaruncle_Rotate",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Eyes_LacrimalCaruncle_Sharpness"
-    },
-    {
-        "morph": "Stomach_Bloating"
-    },
-    {
-        "morph": "Waist_Width",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Chest_FemaleSiliconeImplants"
-    },
-    {
-        "morph": "Mouth_PhiltrumDepth",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Mouth_PhiltrumHeight",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "BodyType_MesoMorph"
-    },
-    {
-        "morph": "BodyType_EndoMorph"
-    },
-    {
-        "morph": "BodyType_EctoMorph"
-    },
-    {
-        "morph": "Chest_FemaleFlatChested"
-    },
-    {
-        "morph": "Neck_AdamsApple"
-    },
-    {
-        "morph": "Legs_FlatFoot"
-    },
-    {
-        "morph": "Eyes_Eyelid_Monolid"
-    },
-    {
-        "morph": "Eyes_Eyelid_hooded"
-    },
-    {
-        "morph": "Jaw_Ramus_Extrusion",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Jaw_Ramus_LocY",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Face_BrowRidge_Droop"
-    },
-    {
-        "morph": "Face_BrowRidge_Raise"
-    },
-    {
-        "morph": "Face_BrowRidge_CurvedDroop"
-    },
-    {
-        "morph": "Face_BrowRidge_CurvedRaise"
-    },
-    {
-        "morph": "Cheeks_BuccalFat",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Chin_Height",
-        "min": -1,
-        "max": 1
-    },
-    {
-        "morph": "Chin_Tilt",
+        "morph": "Nose_Tip_Protrusion",
         "min": -1,
         "max": 1
     },
@@ -584,26 +498,218 @@
         "morph": "Nose_TipCrease"
     },
     {
-        "morph": "Ears_Potrusion",
+        "morph": "Shoulders_ShoulderBladeWidth",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Ears_PotrusionTop",
+        "morph": "Shoulders_ShoulderTrapeziusSize"
+    },
+    {
+        "morph": "Shoulders_ShoulderWidth",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Face_Puffy"
+        "morph": "Stomach_Bloating"
     },
     {
-        "morph": "Chin_SecondaryWidth",
+        "morph": "Chest_RibWidth",
         "min": -1,
         "max": 1
     },
     {
-        "morph": "Jaw_Width",
+        "morph": "Waist_GlutealCleft_Depth"
+    },
+    {
+        "morph": "Waist_GlutealCleft_Width"
+    },
+    {
+        "morph": "Waist_GlutealFold",
         "min": -1,
         "max": 1
+    },
+    {
+        "morph": "Waist_GluteSize",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Waist_Hips_Width",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Waist_Width",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Eyes_Assymetry_Left",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Eyes_Assymetry_Right",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Stomach_BellyButtonOutie"
+    },
+    {
+        "morph": "Eyes_LowerLidOpenness",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Eyes_Eyelid_Monolid"
+    },
+    {
+        "morph": "Eyes_UpperLidOpenness"
+    },
+    {
+        "morph": "Ears_Canal_Size",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Ears_Canal_Depth",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Pelvis_Bulge"
+    },
+    {
+        "morph": "Feet_ToesDistance",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Feet_Width",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Feet_Length",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Gender_FemaleHeadOnly"
+    },
+    {
+        "morph": "Gender_MaleHeadOnly"
+    },
+    {
+        "morph": "Gender_MaleBodyOnly"
+    },
+    {
+        "morph": "Gender_FemaleBodyOnly"
+    },
+    {
+        "morph": "Mouth_Lips_InteriorArchFlatness",
+        "min": -1,
+        "max": 1
+    },
+    {
+        "morph": "Ears_Lobe_Bulbous"
+    },
+    {
+        "morph": "Fat_DoubleChin"
+    },
+    {
+        "morph": "Fat_Stomach"
+    },
+    {
+        "morph": "Fat_LoveHandles"
+    },
+    {
+        "morph": "Fat_BackRolls"
+    },
+    {
+        "morph": "Fat_FlabbyArmsTricepArea"
+    },
+    {
+        "morph": "Fat_Butt"
+    },
+    {
+        "morph": "Fat_FlabbyArmsBicepArea"
+    },
+    {
+        "morph": "Fat_Hands"
+    },
+    {
+        "morph": "Fat_UpperLegs"
+    },
+    {
+        "morph": "Fat_LowerLegs"
+    },
+    {
+        "morph": "Fat_NeckRolls"
+    },
+    {
+        "morph": "Fat_Face"
+    },
+    {
+        "morph": "Fat_Moobs"
+    },
+    {
+        "morph": "Fat_ThickArms"
+    },
+    {
+        "morph": "Fat_ShoulderRegionSmooth"
+    },
+    {
+        "morph": "Fat_Hips"
+    },
+    {
+        "morph": "Fat_NeckThick"
+    },
+    {
+        "morph": "Fat_StomachDroop"
+    },
+    {
+        "morph": "Muscle_Butt"
+    },
+    {
+        "morph": "Muscle_Stomach"
+    },
+    {
+        "morph": "Muscle_Chest"
+    },
+    {
+        "morph": "Muscle_Neck"
+    },
+    {
+        "morph": "Muscle_Back"
+    },
+    {
+        "morph": "Muscle_Quads"
+    },
+    {
+        "morph": "Muscle_Thighs"
+    },
+    {
+        "morph": "Muscle_Calves"
+    },
+    {
+        "morph": "Muscle_Hamstrings"
+    },
+    {
+        "morph": "Muscle_Tricep"
+    },
+    {
+        "morph": "Muscle_Bicep"
+    },
+    {
+        "morph": "Muscle_Forearms"
+    },
+    {
+        "morph": "Muscle_Traps"
+    },
+    {
+        "morph": "Muscle_Shoulders"
     }
-	]
+]

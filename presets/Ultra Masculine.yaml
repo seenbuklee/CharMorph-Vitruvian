@@ -23,6 +23,7 @@ materials:
   Sclera Bump Strength: 1.0
   Sclera Redness: 0.0
   Sclera Yellowness: 0.0
+  Sebum Roughness: 0.4
   Secondary Iris Color: [0.03161, 0.00893, 0.10656, 1.0]
   Subsurface Scale Multiplier: 1.0
   Teeth Brownness: 0.0
@@ -42,11 +43,10 @@ morphs:
   BodyType_EctoMorph: 0.0
   BodyType_Emaciated: 0.0
   BodyType_EndoMorph: 0.0
-  BodyType_Fat: 0.0
+  BodyType_FatGeneric: 0
   BodyType_Lean: 0.0
-  BodyType_LongProportions: 0.0
   BodyType_MesoMorph: 1.0
-  BodyType_Muscular: 1.0
+  BodyType_MuscularGeneric: 0
   Cheeks_BoneDefinition: 0.0
   Cheeks_BuccalFat: 0.0
   Cheeks_CheeksBonePositionZ: 0.0
@@ -55,7 +55,8 @@ morphs:
   Chest_Breast_Size: 0.0
   Chest_FemaleFlatChested: 0.0
   Chest_FemaleSiliconeImplants: 0.0
-  Chest_Nipple_Potrusion: 0.0
+  Chest_Nipple_Protrusion: 0
+  Chest_RibWidth: 0
   Chin_ChinCleft: 1.0
   Chin_Height: 0.0
   Chin_Portrusion: 0.39067
@@ -69,18 +70,21 @@ morphs:
   Ears_Length: 0.69971
   Ears_Lobe: 0.0
   Ears_LobeAttached: 0.0
-  Ears_Potrusion: 0.0
-  Ears_PotrusionTop: 0.0
-  Ears_Rot: 0.0
+  Ears_Lobe_Bulbous: 0
+  Ears_Protrusion: 0
+  Ears_ProtrusionTop: 0
+  Ears_Rotation: 0
   Ears_Round: 0.0
-  Ears_Tragus_Portrusion: 0.74927
+  Ears_Tragus_Protrusion: 0
+  Eyes_Assymetry_Left: 0
+  Eyes_Assymetry_Right: 0
   Eyes_Distance: 0.0
   Eyes_EyeBagsProminence: 0.0
   Eyes_EyeBagsSize: 0.0
   Eyes_EyebrowsAngle: 0.0
   Eyes_EyebrowsDroop: 0.0
+  Eyes_Eyelid_Hooded: 0
   Eyes_Eyelid_Monolid: 0.0
-  Eyes_Eyelid_hooded: 0.0
   Eyes_EyelidsAngle: 0.0
   Eyes_EyelidsAngle2: 0.0
   Eyes_EyelidsCrease: 0.0
@@ -94,7 +98,7 @@ morphs:
   Face_BrowRidge_CurvedRaise: 0.0
   Face_BrowRidge_Droop: 0.0
   Face_BrowRidge_Raise: 0.0
-  Face_EyeSocket_Potrusion: 0.0
+  Face_EyeSocket_Protrusion: 0
   Face_FrontalBone: 0.0
   Face_FrontalBone_BrowRidge: 0.0
   Face_FrontalBone_FrontalEminence: 0.0
@@ -107,17 +111,42 @@ morphs:
   Fantasy_SharpTeeth: 0.0
   Fantasy_SnakeTongue: 0.0
   Fantasy_VampireTeeth: 0.0
+  Fat_BackRolls: 0
+  Fat_Butt: 0
+  Fat_DoubleChin: 0
+  Fat_Face: 0
+  Fat_FlabbyArmsBicepArea: 0
+  Fat_FlabbyArmsTricepArea: 0
+  Fat_Hands: 0
+  Fat_Hips: 0
+  Fat_LoveHandles: 0
+  Fat_LowerLegs: 0
+  Fat_Moobs: 0
+  Fat_NeckRolls: 0
+  Fat_NeckThick: 0
+  Fat_ShoulderRegionSmooth: 0
+  Fat_Stomach: 0
+  Fat_StomachDroop: 0
+  Fat_ThickArms: 0
+  Fat_UpperLegs: 0
+  Feet_Length: 0
+  Feet_ToesDistance: 0
+  Feet_Width: 0
   Gender_Female: 0.0
-  Gender_Male: 1.0
+  Gender_FemaleBodyOnly: 0
+  Gender_FemaleHeadOnly: 0
+  Gender_Male: 0.0
+  Gender_MaleBodyOnly: 0
+  Gender_MaleHeadOnly: 1.0
   Generic_Assymetry: 0.0
   Hands_FingernailLength: 0.0
   Hands_FingernailPointiness: 0.0
   Hands_Girth: 0.49563
   Hands_Size: 0.0
-  Head_BackScalpPotrusion: 0.0
+  Head_BackScalp_Protrusion: 0
   Head_FrontalBoneFlatness: 0.0
   Head_ParietalFlatness: 0.0
-  Head_SideScalpPotrusion: 0.0
+  Head_SideScalp_Protrusion: 0
   Head_SphenoidBone: 0.0
   Head_TemporalLines: 0.0
   Head_TopScalpPotrusion: 0.0
@@ -137,6 +166,7 @@ morphs:
   Legs_Toenail_Length: 0.0
   Mouth_Lips_BottomLipDepth: 0.0
   Mouth_Lips_Height: 0.0
+  Mouth_Lips_InteriorArchFlatness: 0
   Mouth_Lips_Length: 0.0
   Mouth_Lips_LowerAngle: 0.0
   Mouth_Lips_UpperAngle: 0.0
@@ -145,39 +175,43 @@ morphs:
   Mouth_NoTeeth: 0.0
   Mouth_PhiltrumDepth: 0.0
   Mouth_PhiltrumHeight: 0.0
+  Muscle_Back: 1.0
+  Muscle_Bicep: 1.0
+  Muscle_Butt: 1.0
+  Muscle_Calves: 1.0
+  Muscle_Chest: 1.0
+  Muscle_Forearms: 1.0
+  Muscle_Hamstrings: 1.0
+  Muscle_Neck: 1.0
+  Muscle_Quads: 1.0
+  Muscle_Shoulders: 1.0
+  Muscle_Stomach: 1.0
+  Muscle_Thighs: 1.0
+  Muscle_Traps: 1.0
+  Muscle_Tricep: 1.0
   Neck_AdamsApple: 0.0
   Neck_ChinConnection: 0.0
   Neck_Girth: 0.0
   Neck_Length: 0.0
   Nose_BottomFlatness: 0.0
   Nose_BridgeProminence: 0.0
+  Nose_Flatness: 0
   Nose_NasalAngle: 0.0
   Nose_NasalBone: 0.0
   Nose_NasalBone_AnteriorNasalAperature: -1.0
   Nose_NasalBone_AnteriorNasalSpine: 0.0
   Nose_NoseHeight: 0.0
   Nose_NostrilSize: 0.0
-  Nose_Potrusion: 0.0
+  Nose_Protrusion: 0
   Nose_TipCrease: 0.0
-  Nose_Tip_Potrusion: 0.0
-  Race_African: 0.0
-  Race_Bengali: 0.0
-  Race_EastAsian: 0.0
-  Race_Hispanic: 0.0
-  Race_Kannada: 0.0
-  Race_Marathi: 0.0
-  Race_MiddleEastern: 0.0
-  Race_Punjabi: 0.0
-  Race_Sinhalese: 0.0
-  Race_Tamil: 0.0
-  Race_Telegu: 0.0
-  Race_White: 0.2
+  Nose_Tip_Protrusion: 0
+  Nose_Width: 0
+  Pelvis_Bulge: 0
   Shoulders_ShoulderBladeWidth: 0.0
   Shoulders_ShoulderTrapeziusSize: 0.0
   Shoulders_ShoulderWidth: 0.0
-  Stomach_BellyButtonPotrusion: 0.0
+  Stomach_BellyButtonOutie: 0
   Stomach_Bloating: 0.0
-  Torso_RibWidth: 0.0
   Waist_GluteSize: 0.0
   Waist_GlutealCleft_Depth: 0.0
   Waist_GlutealCleft_Width: 0.0
