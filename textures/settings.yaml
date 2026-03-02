@@ -1,4 +1,5 @@
 sclera_col.<UDIM>: Linear
+sclera_rough.<UDIM>: Linear
 sclera_disp.<UDIM>: Linear
 skin_light_col.<UDIM>: Linear
 skin_dark_col.<UDIM>: Linear
